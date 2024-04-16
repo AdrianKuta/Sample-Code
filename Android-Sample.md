@@ -2,4 +2,4 @@
 
 Example project structure - feature per module with logic separated from the user interface:
 
-![project_structure.jpg](project_structure.jpg)
+![image](https://github.com/AdrianKuta/Sample-Code/assets/46381935/3d1b5205-06e8-4025-af35-367710578745)
